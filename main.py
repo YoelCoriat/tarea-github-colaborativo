@@ -1,3 +1,4 @@
+
 import contabilidad
 # Modulo de contabilidad es placeholder, lo pueden cambiar a algo mas comodo
 
