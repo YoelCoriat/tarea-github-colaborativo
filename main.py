@@ -1,3 +1,4 @@
+import contabilidad
 # Modulo de contabilidad es placeholder, lo pueden cambiar a algo mas comodo
 
 # Yoel Coriat va a realizar el archivo de matematicas
@@ -20,6 +21,7 @@ while True:
         break
 
     elif modulo == "3":
+    contabilidad.run()
         break
 
     else:
