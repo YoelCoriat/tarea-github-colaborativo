@@ -20,7 +20,7 @@ while True:
         break
 
     elif modulo == "3":
-    contabilidad.run()
+        contabilidad.run()
         break
 
     else:
