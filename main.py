@@ -1,3 +1,4 @@
+import trigonometria
 # Modulo de contabilidad es placeholder, lo pueden cambiar a algo mas comodo
 
 # Yoel Coriat va a realizar el archivo de matematicas
@@ -14,6 +15,7 @@ while True:
     # Debajo de cada condicional pueden ejecutar su modulo
     # Es decir, importan el archivo .py arriba al inicio del archivo y ejecutan una funcion como modulo1.run()
     if modulo == "1":
+        trigonometria.run()
         break
 
     elif modulo == "2":
