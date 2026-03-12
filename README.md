@@ -23,6 +23,7 @@ Numero 1 es un calculo para hallar una hipotenusa,
 Numero 2 es un calculo para hallar un cateto faltante,
 
 Numero 3 es un calculo para hallar el area de un triangulo
+
 Todos los calculos se realizan en triangulos rectangulos
 
 ## Modulo de impresion de cuentos
