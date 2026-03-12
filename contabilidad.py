@@ -1,8 +1,20 @@
+def input_float(mensaje):
+    while True:
+        valor = input(mensaje)
+        try:
+            numero = float(valor)
+            if numero >= 0:
+                return numero
+            else:
+                print("Por favor ingresar un numero positivo")
+        except ValueError:
+            print("Por favor ingresar un numero valido")
+
 def run():
     print("\nMODULO DE CONTABILIDAD\n")
 
-    ingresos = float(input("Ingrese el total de ingresos: "))
-    gastos = float(input("Ingrese el total de gastos: "))
+    ingresos = input_float("Ingrese el total de ingresos: ")
+    gastos = input_float("Ingrese el total de gastos: ")
 
     balance = ingresos - gastos
 
