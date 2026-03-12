@@ -1,6 +1,4 @@
-
 import contabilidad
-# Modulo de contabilidad es placeholder, lo pueden cambiar a algo mas comodo
 
 # Yoel Coriat va a realizar el archivo de matematicas
 # Maryane puede realizar el de contacuentos
