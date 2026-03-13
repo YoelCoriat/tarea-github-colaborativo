@@ -30,8 +30,17 @@ Todos los calculos se realizan en triangulos rectangulos
 El segundo módulo es para la impresión de cuentos.
 -- añadir instrucciones de como utilizar el modulo
 
-## Modulo de contabilidad
-Y el tercer módulo es para contabilidad 
--- podra ser cambiado en el futuro si no se prefiere un modulo de contabilidad
--- añadir instrucciones de como utilizar el modulo
+## Modulo de Contabilidad
+
+Archivo: contabilidad.py
+
+Este módulo permite realizar cálculos básicos de contabilidad. 
+El usuario puede ingresar los ingresos y gastos para obtener el balance final.
+
+### Cómo utilizar el módulo
+
+1. Ejecutar el archivo main.py
+2. Seleccionar la opción **3 - Modulo de contabilidad**
+3. Ingresar los valores de ingresos y gastos cuando el programa lo solicite
+4. El sistema mostrará el balance financiero final
 

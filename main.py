@@ -1,10 +1,9 @@
+import contabilidad
 import trigonometria
-# Modulo de contabilidad es placeholder, lo pueden cambiar a algo mas comodo
 
 # Yoel Coriat va a realizar el archivo de matematicas
 # Maryane puede realizar el de contacuentos
 # Y Jose puede realizar el ultimo de contabilidad, aunque puedes cambiar el modulo a que sea lo que quieras
-
 
 while True:
     modulo = input("Cual modulo desea utilizar?\n\n"
@@ -22,6 +21,7 @@ while True:
         break
 
     elif modulo == "3":
+        contabilidad.run()
         break
 
     else:
