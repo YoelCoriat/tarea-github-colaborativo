@@ -15,9 +15,16 @@ Colaboración: Cada miembro del equipo debe realizar al menos un "pull request" 
 
 # Cómo funciona el programa:
 Al ejecutar main.py se tiene acceso a los tres módulos,
-## Modulo matematico
-El primer módulo siendo un modulo que puede realizar funciones matemáticas.
--- añadir instrucciones de como utilizar el modulo
+## Modulo matematico de trigonometría
+Se pueden realizar calculos al escoger un numero del 1-3:
+
+Numero 1 es un calculo para hallar una hipotenusa,
+
+Numero 2 es un calculo para hallar un cateto faltante,
+
+Numero 3 es un calculo para hallar el area de un triangulo
+
+Todos los calculos se realizan en triangulos rectangulos
 
 ## Modulo de impresion de cuentos
 El segundo módulo es para la impresión de cuentos.
