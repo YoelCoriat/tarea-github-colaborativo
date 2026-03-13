@@ -15,7 +15,7 @@ def input_float(mensaje):
             else:
                 print("Por favor ingresar un numero positivo")
         except ValueError:
-            print("Por favor ingresar un numero valido")
+            print("Este número no es válido, por favor ingresar un numero positivo.")
 
 
 # Funcion que calcula la hipotenusa de un triangulo rectangulo usando el teorema de Pitagoras
