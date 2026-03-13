@@ -1,3 +1,4 @@
+import contacuentos
 import contabilidad
 import trigonometria
 
@@ -18,6 +19,7 @@ while True:
         break
 
     elif modulo == "2":
+        contacuentos.run()
         break
 
     elif modulo == "3":
