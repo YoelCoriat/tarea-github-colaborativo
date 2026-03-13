@@ -28,7 +28,7 @@ Todos los calculos se realizan en triangulos rectangulos
 
 ## Modulo de impresion de cuentos
 El segundo módulo es para la impresión de cuentos.
-Trabaja con la función creada imprimir_cuento para que le muestre al usuario 2 opciones, luego con la condicional de elif/else, imprime el programa que corresponde con cada opción.
+Trabaja con la función creada run() para que le muestre al usuario 2 opciones, luego con la condicional de elif/else, imprime el programa que corresponde con cada opción.
 
 ## Modulo de Contabilidad
 
