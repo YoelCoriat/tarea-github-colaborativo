@@ -1,4 +1,4 @@
-def imprimir_cuento():
+def run():
     print("¿Que cuento deseas leer hoy?:")
     print("1. El bosque misterioso.")
     print("2. El viaje a las estrellas.")
@@ -25,6 +25,3 @@ def imprimir_cuento():
 
     else:
         print("Opción no válida. Ejecuta el programa nuevamente y elige 1 o 2.")
-
-
-imprimir_cuento()
