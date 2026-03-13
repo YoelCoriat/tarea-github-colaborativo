@@ -21,7 +21,7 @@ El primer módulo siendo un modulo que puede realizar funciones matemáticas.
 
 ## Modulo de impresion de cuentos
 El segundo módulo es para la impresión de cuentos.
--- añadir instrucciones de como utilizar el modulo
+Trabaja con la función creada imprimir_cuento para que le muestre al usuario 2 opciones, luego con la condicional de elif/else, imprime el programa que corresponde con cada opción.
 
 ## Modulo de contabilidad
 Y el tercer módulo es para contabilidad 
